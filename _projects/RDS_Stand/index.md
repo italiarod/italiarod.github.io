@@ -12,7 +12,7 @@ skills:
   - Prototype-to-Production
   - Manufacturing Optimization
 
-main-image: /project.webp 
+main-image: /FLEX_Stand_Print.jpg
 ---
 
 ## 3D Printed Stand
