@@ -13,7 +13,6 @@ skills:
   - Manufacturing Optimization
 
 main-image: /project.webp 
-
 ---
 
 ## 3D Printed Stand
