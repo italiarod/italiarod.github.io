@@ -20,7 +20,10 @@ main-image: /Untitled presentation.jpg
 
 ---
 
+
 {% include image-gallery.html images="FLEX_Stand_Print.jpg" height="400" %}
+
+
 
 
 ## 3D Printed Stand
