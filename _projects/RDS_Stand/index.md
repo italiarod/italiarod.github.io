@@ -18,6 +18,7 @@ skills:
 main-image: /Untitled presentation.jpg
 ---
 
+---
 ## 3D Printed Stand
 {% include image-gallery.html images="FLEX_Stand_Print.jpg" height="400" %}
 
@@ -32,6 +33,7 @@ The most important aspects of the design were fit, stability, and user experienc
 
 
 
+---
 ## Injection Molded Stand
 
 Once the 3D-printed design was validated, I reworked the stand with plastic injection molding in mind. This required stepping away from design choices that were acceptable for additive manufacturing and redesigning the part around simpler geometry, appropriate draft angles, and part separation to support molding and assembly.
