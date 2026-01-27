@@ -21,22 +21,24 @@ main-image: /Untitled presentation.jpg
 ## 3D Printed Stand
 {% include image-gallery.html images="FLEX_Stand_Print.jpg" height="400" %}
 
-The project began with a client requirement to operate the RDS reader in a specific orientation, which necessitated the design of an additional accessory stand. I was responsible for translating client and internal design requirements into a functional, 3D-printable prototype for early validation.
+The client wanted the RDS reader to operate in a specific orientation, which required designing an additional accessory stand. I was responsible for meeting the core design requirements from the client and my supervisors and delivering a physical prototype that could be rapidly 3D printed and tested.
 
 
-Given the complex geometry of the reader housing, I explored multiple SolidWorks modeling strategies to achieve a secure, repeatable fit that provided stability without damaging the device enclosure. The prototype was intentionally designed for additive manufacturing, with overhangs limited to under 45° to minimize support material, reduce print time, and conserve material. Infill was also reduced appropriately, as the stand was not expected to experience significant mechanical loading during this validation phase.
+Because the reader has complex geometry, a large part of the process involved experimenting with different SolidWorks modeling approaches to achieve a fit that was snug and stable without risking damage to the reader housing. Since the prototype was designed specifically for 3D printing, I avoided overhangs greater than 45° to minimize support material and reduce print time and material usage. I also lowered the infill, as the stand was not expected to experience significant mechanical stress at this stage.
 
 
-Key design priorities included device fit, stand stability, and user interaction. Through multiple design iterations, I refined both the internal and external geometry to improve alignment and usability while maintaining a clean, unobtrusive form factor. Final prototype features included a dedicated cable slot to accommodate the charging cord and an inlay for product labeling, allowing stakeholders to evaluate both functional and user-facing aspects of the design prior to production.
+The most important aspects of the design were fit, stability, and user experience. Over several iterations, I adjusted both the internal and external geometry while keeping the design clean and unobtrusive. The final prototype included a cable slot for the charging cord and an inlay for a product label, allowing stakeholders to evaluate both functional and user-facing features before moving toward production.
+
+
 
 
 ## Injection Molded Stand
 
-Following validation of the 3D-printed prototype, the accessory stand was redesigned for plastic injection molding. This required re-engineering the part to meet manufacturability constraints while preserving core functional requirements. The design was simplified to reduce geometric complexity, appropriate draft angles were introduced, and the part was split to accommodate molding and assembly considerations.
+Once the 3D-printed design was validated, I reworked the stand with plastic injection molding in mind. This required stepping away from design choices that were acceptable for additive manufacturing and redesigning the part around simpler geometry, appropriate draft angles, and part separation to support molding and assembly.
 
 
-During this phase, mechanical issues such as front-face deflection during fastening were identified and resolved through the addition of internal structural ribs, improving rigidity without significantly increasing material usage. One of the primary challenges was maintaining features from the prototype design—particularly the cable slot—within the constraints of injection molding. After evaluating multiple iterations and tradeoffs, the cable slot was intentionally removed to prioritize manufacturability, part integrity, and production reliability.
+One issue that emerged during this phase was deflection of the front face when the part was fastened. I addressed this by adding a continuous internal rib, which improved stiffness without significantly increasing material usage. The biggest challenge was preserving features from the original prototype—particularly the cable slot—within the constraints of injection molding. After several iterations and tradeoff evaluations, I chose to remove the cable slot to prioritize manufacturability, structural integrity, and production reliability.
 
 
-This phase highlighted the tradeoffs between prototype flexibility and scalable manufacturing, and reinforced the importance of adapting designs to align with production constraints while maintaining functional intent.
+This phase reinforced the tradeoffs between rapid prototyping and scalable manufacturing and highlighted the importance of adapting designs to production constraints while preserving core functionality.
 
