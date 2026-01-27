@@ -46,7 +46,7 @@ The most important aspects of the design were fit, stability, and user experienc
 Once the 3D-printed design was validated, I reworked the stand with plastic injection molding in mind. This required stepping away from design choices that were acceptable for additive manufacturing and redesigning the part around simpler geometry, appropriate draft angles, and part separation to support molding and assembly.
 
 
-One issue that emerged during this phase was deflection of the front face when the part was fastened. I addressed this by adding a continuous internal rib, which improved stiffness without significantly increasing material usage. The biggest challenge was preserving features from the original prototype—particularly the cable slot—within the constraints of injection molding. After several iterations and tradeoff evaluations, I chose to remove the cable slot to prioritize manufacturability, structural integrity, and production reliability.
+One issue that emerged during this phase was deflection of the front face when the part was fastened. I addressed this by adding a continuous internal rib, which improved stiffness without significantly increasing material usage. The biggest challenge was preserving features from the original prototype, particularly the cable slot, within the constraints of injection molding. After several iterations and tradeoff evaluations, I chose to remove the cable slot to prioritize manufacturability, structural integrity, and production reliability.
 
 
 This phase reinforced the tradeoffs between rapid prototyping and scalable manufacturing and highlighted the importance of adapting designs to production constraints while preserving core functionality.
