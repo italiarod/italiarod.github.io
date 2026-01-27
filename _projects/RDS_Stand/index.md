@@ -19,8 +19,12 @@ main-image: /Untitled presentation.jpg
 ---
 
 ---
-## 3D Printed Stand
+
 {% include image-gallery.html images="FLEX_Stand_Print.jpg" height="400" %}
+
+
+## 3D Printed Stand
+
 
 The client wanted the RDS reader to operate in a specific orientation, which required designing an additional accessory stand. I was responsible for meeting the core design requirements from the client and my supervisors and delivering a physical prototype that could be rapidly 3D printed and tested.
 
