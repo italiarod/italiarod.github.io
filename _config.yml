@@ -13,10 +13,11 @@ title: Italia's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Italia Rodriguez
-headline: Biomedical Engineer in Training
+headline: Biomedical Engineer | Mechanical Design & Product Development
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  2+ years of industry experience designing and producing biomedical instrumentation, including leading assembly operations for
-  ~250 devices/month, developing production jigs that reduced defects by 20%, and delivering 15+ custom hardware solutions for international clients.
+  Biomedical engineer with 2+ years of hands-on experience in mechanical design, product development, manufacturing, and quality.
+  Experienced in developing custom hardware solutions from concept and prototyping through DFM and production, with a focus on
+  practical, manufacturable designs and continuous process improvement.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/Headshot.jpg
