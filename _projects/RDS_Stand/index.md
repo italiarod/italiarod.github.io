@@ -3,6 +3,7 @@ layout: post
 title: Optical Instrument Accessory
 description:  Led the mechanical design and development of a custom positioning accessory for a biomedical optical reader, taking the product from a rapidly iterated 3D-printed prototype through redesign for injection-molded production.
 
+
 Developed the initial design around fit, stability, cable management, and user-facing requirements, then transitioned the validated concept to injection molding using DFM principles including draft, controlled wall thickness, ribbing, and simplified geometry. The final design balanced functionality, structural performance, and manufacturability for scalable production.
 
 
