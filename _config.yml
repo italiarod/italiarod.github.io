@@ -44,24 +44,43 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Mechanical Design & CAD
     tools:
-    - Solidworks
-    - Onshape
-    - Fusion 360 (Autodesk)
+    - SolidWorks
+    - Design for Manufacturing (DFM)
+    - Manufacturing Drawings
+    - Tolerancing & Fits
+    - CAD Standardization
 
-  - category: Prototyping
+  - category: Product Development & Prototyping
     tools:
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-    - Laser Cutting
-  - category: Design Standards / Practices
+    - Rapid Prototyping
+    - 3D Printing
+    - Injection Mold Design
+    - Design Iteration
+    - Prototype Testing
+
+  - category: Manufacturing & Quality
     tools:
-    - ISO fits and tolerances 
-  - category: PCB Design
+    - Process Improvement
+    - Production Operations
+    - Quality Assurance & Inspection
+    - Root Cause Troubleshooting
+    - SOP Development
+
+  - category: Electronics & Instrumentation
     tools:
-    - Fusion360
-    - KiCad
+    - Arduino
+    - Breadboarding & Circuit Prototyping
+    - Sensors & Data Acquisition
+    - Basic PCB Design
+
+  - category: Engineering Tools
+    tools:
+    - MATLAB
+    - Python
+    - Microsoft Excel
+    - Git / GitHub
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
