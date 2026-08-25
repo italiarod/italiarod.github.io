@@ -95,7 +95,7 @@ colors: # this is the ut theme
   link: "#f8971f"
   highlight: "#BF5700"
   background: "#ffffff"
-  light_background: "#f3f5fb"
+  light_background: "#FFDDB3"
 
   
 # A few examples. 
