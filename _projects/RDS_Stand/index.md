@@ -1,19 +1,20 @@
 ---
 layout: post
-title: Machine Reader Stand
-description:  Owned the end-to-end mechanical design of an accessory stand for a biomedical assay reader, beginning with a 3D-printable prototype for rapid iteration and functional testing. 
+title: Optical Instrument Accessory
+description:  Led the mechanical design and development of a custom positioning accessory for a biomedical optical reader, taking the product from a rapidly iterated 3D-printed prototype through redesign for injection-molded production.
 
+Developed the initial design around fit, stability, cable management, and user-facing requirements, then transitioned the validated concept to injection molding using DFM principles including draft, controlled wall thickness, ribbing, and simplified geometry. The final design balanced functionality, structural performance, and manufacturability for scalable production.
 
-  After validating performance, redesigned the component for injection molding by applying design-for-manufacturability principles, including draft, wall thickness control, and simplified geometry. The final design supported scalable production while maintaining compatibility with existing hardware.
 
 skills: 
   - SolidWorks
   - Mechanical Design
-  - DFM
+  - Design for Manufacturing (DFM)
+  - Plastic Part Design
+  - Rapid Prototyping
   - 3D Printing
   - Injection Molding
-  - Prototype-to-Production
-  - Manufacturing Optimization
+  - Design Iteration
 
 main-image: /Untitled presentation.jpg
 ---
@@ -26,7 +27,7 @@ main-image: /Untitled presentation.jpg
 
 
 
-## 3D Printed Stand
+## Phase 1: Rapid Prototype
 
 
 The client wanted the RDS reader to operate in a specific orientation, which required designing an additional accessory stand. I was responsible for meeting the core design requirements from the client and my supervisors and delivering a physical prototype that could be rapidly 3D printed and tested.
@@ -41,7 +42,7 @@ The most important aspects of the design were fit, stability, and user experienc
 
 
 ---
-## Injection Molded Stand
+## Phase 2: Design for Production
 
 Once the 3D-printed design was validated, I reworked the stand with plastic injection molding in mind. This required stepping away from design choices that were acceptable for additive manufacturing and redesigning the part around simpler geometry, appropriate draft angles, and part separation to support molding and assembly.
 
