@@ -92,9 +92,9 @@ formspree-key:   mnjdjogy
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the ut theme
   text: "#ffffff"
-  border: "#BF5700"
+  border: "#FFDCB1"
   link: "#F8971F"
-  highlight: "#FFDCB1"
+  highlight: "#BF5700"
   background: "#333F48"
   light_background: "#BF5700"
 
