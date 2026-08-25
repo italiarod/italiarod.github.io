@@ -93,7 +93,7 @@ colors: # this is the ut theme
   text: "#BF5700"
   border: "#BF5700"
   link: "#f8971f"
-  highlight: "#BF5700"
+  highlight: "#F8971F"
   background: "#ffffff"
   light_background: "#FFDDB3"
 
