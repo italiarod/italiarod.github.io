@@ -21,7 +21,7 @@ main-image: /YOUR_MAIN_IMAGE.jpg
 {% include image-gallery.html images="YOUR_LIBRARY_IMAGE.jpg" height="400" %}
 
 
-## Phase 1: Standardized CAD Library
+## Standardized CAD Library
 
 Custom lateral flow assay products frequently required adapting existing hardware to accommodate different strip dimensions. Previously, developing a new configuration could involve locating a similar client design and modifying its geometry, creating additional CAD work and making it more difficult to maintain consistency between projects.
 
@@ -37,7 +37,7 @@ The project shifted a repetitive design task into a reusable engineering resourc
 {% include image-gallery.html images="YOUR_GUIDE_IMAGE.jpg" height="400" %}
 
 
-## Phase 2: Library Reference Guide
+## Library Reference Guide
 
 To make the CAD library easier to navigate and use, I created an accompanying reference document that serves as a visual guide to the available models. The document allows users to review the standardized configurations and their relevant dimensions without having to individually open and inspect multiple SolidWorks files.
 
