@@ -19,7 +19,7 @@ main-image: /YOUR_MAIN_IMAGE.jpg
 ---
 
 {% include image-gallery.html images="Lateral Flow Strips.png" height="400" %}
-
+<br>
 
 ## Standardized CAD Library
 
@@ -35,7 +35,7 @@ The project shifted a repetitive design task into a reusable engineering resourc
 ---
 
 {% include image-gallery.html images="Strip Holder Design Guidelines.png" height="400" %}
-
+<br>
 
 ## Library Reference Guide
 
