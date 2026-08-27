@@ -14,16 +14,14 @@ skills:
   - Injection Molding
   - Design Iteration
 
-main-image: /Untitled presentation.jpg
+main-image: /RDS3500.png
 ---
 
 ---
 
-
+<br>
 {% include image-gallery.html images="FLEX_Stand_Print.jpg" height="400" %}
-
-
-
+<br>
 
 ## Phase 1: Rapid Prototype
 
@@ -40,6 +38,11 @@ The most important aspects of the design were fit, stability, and user experienc
 
 
 ---
+
+<br>
+{% include image-gallery.html images="Untitled presentation.jpg" height="400" %}
+<br>
+
 ## Phase 2: Design for Production
 
 Once the 3D-printed design was validated, I reworked the stand with plastic injection molding in mind. This required stepping away from design choices that were acceptable for additive manufacturing and redesigning the part around simpler geometry, appropriate draft angles, and part separation to support molding and assembly.
