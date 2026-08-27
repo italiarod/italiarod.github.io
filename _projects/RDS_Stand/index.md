@@ -40,7 +40,7 @@ The most important aspects of the design were fit, stability, and user experienc
 ---
 
 <br>
-{% include image-gallery.html images="Untitled presentation.jpg" height="400" %}
+{% include image-gallery.html images="RDS3500CADLineup.png" height="400" %}
 <br>
 
 ## Phase 2: Design for Production
