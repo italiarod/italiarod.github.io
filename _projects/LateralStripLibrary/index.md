@@ -16,10 +16,6 @@ skills:
 main-image: /Lateral Flow Strips.png
 ---
 
----
-
-{% include image-gallery.html images="Lateral Flow Strips.png" height="400" %}
-<br>
 
 ## Standardized CAD Library
 
