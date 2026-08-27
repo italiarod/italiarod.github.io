@@ -14,8 +14,11 @@ skills:
   - Process Improvement
 
 main-image: /Lateral Flow Strips.png
+
+
 ---
 
+---
 
 ## Standardized CAD Library
 
