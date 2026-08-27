@@ -13,7 +13,7 @@ skills:
   - Design Standardization
   - Process Improvement
 
-main-image: /YOUR_MAIN_IMAGE.jpg
+main-image: /Lateral Flow Strips.png
 ---
 
 ---
