@@ -79,7 +79,7 @@ The platform was designed around accessibility and education, with the goal of p
 
 ---
 
-{% include image-gallery.html images="atheheart2.png" height="400" %}
+{% include image-gallery.html images="theheart2.png" height="400" %}
 
 
 ## Phase 5: Design Review & Final Presentation
