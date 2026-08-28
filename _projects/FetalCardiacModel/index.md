@@ -22,7 +22,7 @@ main-image: /FetalHeartTitleCard.png
 
 {% include image-gallery.html images="2026-04-02-Scene.png" height="400" %}
 
-
+<br>
 {% include image-gallery.html images="2026-04-04-Scene.png" height="400" %}
 
 
