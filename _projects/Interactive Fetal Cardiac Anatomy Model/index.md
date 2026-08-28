@@ -65,7 +65,7 @@ Including both baseline anatomy and CHD variations expanded the model beyond a g
 
 ---
 
-{% include image-gallery.html images="FetalHeartWebsite.png height="400" %}
+{% include image-gallery.html images="FetalHeartWebsite.png" height="400" %}
 
 
 ## Phase 4: Interactive Educational Platform
